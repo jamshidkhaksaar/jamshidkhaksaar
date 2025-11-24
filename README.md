@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jamshid%20Khaksaar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%26%20Tech%20Enthusiast&descAlignY=55&descAlign=62)
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Administrator+(MikroTik+%2F+Sophos);3D+Animator+%26+Video+Creator;Python+%26+Shell+Scripter;Open+Source+Enthusiast&center=true&width=550&height=50&color=336699&vCenter=true&size=24" alt="Typing SVG" />
@@ -18,11 +16,8 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/MikroTik-E53422?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Blender-e87d0d?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
 
@@ -39,8 +34,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jamshidkhaksaar&theme=radical&no-frame=true&margin-w=15&column=7" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/jamshidkhaksaar/jamshidkhaksaar/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
