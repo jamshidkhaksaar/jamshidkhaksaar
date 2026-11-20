@@ -1,6 +1,6 @@
 <!-- Header (self-hosted animated SVG — no external service needed) -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Jamshid Khaksaar — Network Administrator, Python & Shell, Open Source" width="100%" />
+  <img src="./header.svg" alt="Jamshid Khaksaar — Network Administrator, Python & Shell, Open Source" width="100%" />
 </p>
 
 <p align="center">
